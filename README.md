@@ -6,3 +6,7 @@ This plugin contains an animation modifier that will keyframe a bone to follow a
 
 This probably isn't useful for anyone else, but I thought I'd share it anyway just in case someone else finds this useful.
 The Animation Modifier is written in native C++, with a derived Blueprint subclass that defaults the Source and Destination bone names for a particular use case (keyframing the ik_hand_gun bone to match the transform of hand_r)
+
+![screenshot](Docs/plugin.png "Screenshot")
+
+
